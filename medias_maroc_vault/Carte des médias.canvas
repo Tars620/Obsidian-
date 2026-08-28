@@ -1,0 +1,4966 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Tanger - Tétouan - Al Hoceïma",
+      "x": 460,
+      "y": 0,
+      "width": 2038,
+      "height": 775,
+      "color": "#e6194B"
+    },
+    {
+      "id": "rc0",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "## Tanger - Tétouan - Al Hoceïma\n18 sites · 7 FB",
+      "x": 505,
+      "y": 310,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl0",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 55,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s0_0",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Tanja24**\n\n[🔗 ouvrir](https://tanja24.com)",
+      "x": 795,
+      "y": 117,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_1",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Tanja7**\n\n[🔗 ouvrir](https://tanja7.com)",
+      "x": 1067,
+      "y": 117,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_2",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Tanja El Kobra**\n\n[🔗 ouvrir](https://tanjaelkobra.com)",
+      "x": 1339,
+      "y": 117,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_3",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Tanja News**\n\n[🔗 ouvrir](https://tanjanews.com)",
+      "x": 1611,
+      "y": 117,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_4",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**TangerPress**\n\n[🔗 ouvrir](https://tangerpress.com)",
+      "x": 795,
+      "y": 235,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_5",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Press Tetouan**\n\n[🔗 ouvrir](https://presstetouan.com)",
+      "x": 1067,
+      "y": 235,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_6",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Tetouani**\n\n[🔗 ouvrir](https://tetouani.ma)",
+      "x": 1339,
+      "y": 235,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_7",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**TetouanClub**\n\n[🔗 ouvrir](https://tetouanclub.com)",
+      "x": 1611,
+      "y": 235,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_8",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Chamaly**\n\n[🔗 ouvrir](https://chamaly.ma)",
+      "x": 795,
+      "y": 353,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_9",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Chamalpress**\n\n[🔗 ouvrir](https://chamalpress.ma)",
+      "x": 1067,
+      "y": 353,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_10",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Chamalmedia**\n\n[🔗 ouvrir](https://chamalmedia.com)",
+      "x": 1339,
+      "y": 353,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_11",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Achamal (Al Chamal 2000)**\n\n[🔗 ouvrir](https://achamal.ma)",
+      "x": 1611,
+      "y": 353,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_12",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Larache News**\n\n[🔗 ouvrir](https://larachenews.com)",
+      "x": 795,
+      "y": 471,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_13",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Hoceima City**\n\n[🔗 ouvrir](https://hoceimacity.com)",
+      "x": 1067,
+      "y": 471,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_14",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Hachimi Press**\n\n[🔗 ouvrir](https://hachimipress.ma)",
+      "x": 1339,
+      "y": 471,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_15",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Chaouen Press**\n\n[🔗 ouvrir](https://chaouenpress.com)",
+      "x": 1611,
+      "y": 471,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_16",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Ouazzane Press**\n\n[🔗 ouvrir](https://ouazzanepress.com)",
+      "x": 795,
+      "y": 589,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s0_17",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "**Canal Tétouan**\n\n[🔗 ouvrir](https://canaltetouan.com)",
+      "x": 1067,
+      "y": 589,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl0",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 55,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f0_0",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "⚠️ **أخبار بني بوعياش**\n\n[🔗 ouvrir](https://www.facebook.com/akhbarbouayach45/)",
+      "x": 1931,
+      "y": 117,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f0_1",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "⚠️ **Imzouren 24**\n\n[🔗 ouvrir](https://www.facebook.com/imzouren24/)",
+      "x": 2203,
+      "y": 117,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f0_2",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "〽️ **بوابة القصر الكبير (Ksar el Kebir)**\n\n[🔗 ouvrir](https://www.facebook.com/ksarforum/)",
+      "x": 1931,
+      "y": 235,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f0_3",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "🏙️ **TanjaNews (طنجة)**\n\n[🔗 ouvrir](https://www.facebook.com/tanjanews/)",
+      "x": 2203,
+      "y": 235,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f0_4",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "🏙️ **Tanja24 (طنجة)**\n\n[🔗 ouvrir](https://www.facebook.com/tanja24com/)",
+      "x": 1931,
+      "y": 353,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f0_5",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "🏙️ **أخبار تطوان نيوز**\n\n[🔗 ouvrir](https://www.facebook.com/titouannews/)",
+      "x": 2203,
+      "y": 353,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f0_6",
+      "type": "text",
+      "color": "#e6194B",
+      "text": "🏙️ **CaNaL Tetouan**\n\n[🔗 ouvrir](https://www.facebook.com/CanaL.Tetouan/)",
+      "x": 1931,
+      "y": 471,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "L'Oriental",
+      "x": 460,
+      "y": 905,
+      "width": 2038,
+      "height": 1129,
+      "color": "#f58231"
+    },
+    {
+      "id": "rc1",
+      "type": "text",
+      "color": "#f58231",
+      "text": "## L'Oriental\n30 sites · 7 FB",
+      "x": 505,
+      "y": 1392,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl1",
+      "type": "text",
+      "color": "#f58231",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 960,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s1_0",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Ariffino**\n\n[🔗 ouvrir](https://ariffino.net)",
+      "x": 795,
+      "y": 1022,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_1",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Dalil Rif**\n\n[🔗 ouvrir](https://dalil-rif.com)",
+      "x": 1067,
+      "y": 1022,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_2",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Akhbar Rif**\n\n[🔗 ouvrir](http://akhbar-rif.com)",
+      "x": 1339,
+      "y": 1022,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_3",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**RifDia**\n\n[🔗 ouvrir](https://rifdia.com)",
+      "x": 1611,
+      "y": 1022,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_4",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Info-Rif**\n\n[🔗 ouvrir](https://info-rif.com)",
+      "x": 795,
+      "y": 1140,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_5",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**NadorCity (.com)**\n\n[🔗 ouvrir](https://nadorcity.com)",
+      "x": 1067,
+      "y": 1140,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_6",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Nador City (.ma)**\n\n[🔗 ouvrir](https://nadorcity.ma)",
+      "x": 1339,
+      "y": 1140,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_7",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Nador24**\n\n[🔗 ouvrir](https://nador24.com)",
+      "x": 1611,
+      "y": 1140,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_8",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Nador Press (.com)**\n\n[🔗 ouvrir](https://nadorpress.com)",
+      "x": 795,
+      "y": 1258,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_9",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Nador Press (.net)**\n\n[🔗 ouvrir](http://nadorpress.net)",
+      "x": 1067,
+      "y": 1258,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_10",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Al Akhbar 55**\n\n[🔗 ouvrir](https://alakhbar55.ma)",
+      "x": 1339,
+      "y": 1258,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_11",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Midar Hoy**\n\n[🔗 ouvrir](http://www.midarhoy.com)",
+      "x": 1611,
+      "y": 1258,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_12",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Driouch City (.com)**\n\n[🔗 ouvrir](https://driouchcity.com)",
+      "x": 795,
+      "y": 1376,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_13",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Driouch City (.net)**\n\n[🔗 ouvrir](http://driouchcity.net)",
+      "x": 1067,
+      "y": 1376,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_14",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Aswat Driouch**\n\n[🔗 ouvrir](https://aswatdriouch.com)",
+      "x": 1339,
+      "y": 1376,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_15",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Guercif City**\n\n[🔗 ouvrir](https://guercifcity.com)",
+      "x": 1611,
+      "y": 1376,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_16",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Guercif Zoom**\n\n[🔗 ouvrir](https://guercifzoom.net)",
+      "x": 795,
+      "y": 1494,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_17",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Figuig Media**\n\n[🔗 ouvrir](https://www.figuigmedia.com)",
+      "x": 1067,
+      "y": 1494,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_18",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Saïdia Akhbar**\n\n[🔗 ouvrir](https://saidiacitysite.wordpress.com)",
+      "x": 1339,
+      "y": 1494,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_19",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Zaïo City (.net)**\n\n[🔗 ouvrir](https://zaiocity.net)",
+      "x": 1611,
+      "y": 1494,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_20",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Zaïo City (.com)**\n\n[🔗 ouvrir](https://zaiocity.com)",
+      "x": 795,
+      "y": 1612,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_21",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Oujda7**\n\n[🔗 ouvrir](https://oujda7.ma)",
+      "x": 1067,
+      "y": 1612,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_22",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**OujdaCity**\n\n[🔗 ouvrir](https://oujdacity.net)",
+      "x": 1339,
+      "y": 1612,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_23",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Oujda Région**\n\n[🔗 ouvrir](https://oujdaregion.com)",
+      "x": 1611,
+      "y": 1612,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_24",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Akhbar Achark**\n\n[🔗 ouvrir](https://akhbarachark.ma)",
+      "x": 795,
+      "y": 1730,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_25",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Expresse**\n\n[🔗 ouvrir](https://expresse.ma)",
+      "x": 1067,
+      "y": 1730,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_26",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Jerada Press**\n\n[🔗 ouvrir](http://www.jeradapress.com)",
+      "x": 1339,
+      "y": 1730,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_27",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Hassi City**\n\n[🔗 ouvrir](https://hassicity.com)",
+      "x": 1611,
+      "y": 1730,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_28",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Amnous**\n\n[🔗 ouvrir](https://amnous.net)",
+      "x": 795,
+      "y": 1848,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s1_29",
+      "type": "text",
+      "color": "#f58231",
+      "text": "**Sabah Achark**\n\n[🔗 ouvrir](https://www.sabahachark.com)",
+      "x": 1067,
+      "y": 1848,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl1",
+      "type": "text",
+      "color": "#f58231",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 960,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f1_0",
+      "type": "text",
+      "color": "#f58231",
+      "text": "⚠️ **Bouarfa Press**\n\n[🔗 ouvrir](https://www.facebook.com/bouarfapress/)",
+      "x": 1931,
+      "y": 1022,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f1_1",
+      "type": "text",
+      "color": "#f58231",
+      "text": "✅ **أخبار بوعرفة وإقليم فجيج (groupe)**\n\n[🔗 ouvrir](https://www.facebook.com/groups/429913874537242/)",
+      "x": 2203,
+      "y": 1022,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f1_2",
+      "type": "text",
+      "color": "#f58231",
+      "text": "⚠️ **أخبار الناظور والجهة**\n\n[🔗 ouvrir](https://www.facebook.com/analkhabar/)",
+      "x": 1931,
+      "y": 1140,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f1_3",
+      "type": "text",
+      "color": "#f58231",
+      "text": "✅ **عين بني مطهر إقليم جرادة (groupe)**\n\n[🔗 ouvrir](https://www.facebook.com/groups/1237640252979755/)",
+      "x": 2203,
+      "y": 1140,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f1_4",
+      "type": "text",
+      "color": "#f58231",
+      "text": "🏙️ **وجدة الآن (Oujda Alan)**\n\n[🔗 ouvrir](https://www.facebook.com/OujdaAlan/)",
+      "x": 1931,
+      "y": 1258,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f1_5",
+      "type": "text",
+      "color": "#f58231",
+      "text": "🏙️ **أخبار الناظور (Nador news)**\n\n[🔗 ouvrir](https://www.facebook.com/p/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%A7%D8%B8%D9%88%D8%B1-Nador-news-100024925153474/)",
+      "x": 2203,
+      "y": 1258,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f1_6",
+      "type": "text",
+      "color": "#f58231",
+      "text": "🏙️ **NadorCity (الرسمية)**\n\n[🔗 ouvrir](https://www.facebook.com/Nadorcityofficial/)",
+      "x": 1931,
+      "y": 1376,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Fès - Meknès",
+      "x": 460,
+      "y": 2164,
+      "width": 2038,
+      "height": 775,
+      "color": "#eab308"
+    },
+    {
+      "id": "rc2",
+      "type": "text",
+      "color": "#eab308",
+      "text": "## Fès - Meknès\n17 sites · 4 FB",
+      "x": 505,
+      "y": 2474,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl2",
+      "type": "text",
+      "color": "#eab308",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 2219,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s2_0",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Fès News Media**\n\n[🔗 ouvrir](https://fesnews.media)",
+      "x": 795,
+      "y": 2281,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_1",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Fes24**\n\n[🔗 ouvrir](https://www.fes24.com)",
+      "x": 1067,
+      "y": 2281,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_2",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Alaoui Press**\n\n[🔗 ouvrir](https://alaouipress.com)",
+      "x": 1339,
+      "y": 2281,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_3",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Meknes Press**\n\n[🔗 ouvrir](http://www.meknespress.com)",
+      "x": 1611,
+      "y": 2281,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_4",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Akhbar Meknes 24**\n\n[🔗 ouvrir](https://akhbarmeknes24.com)",
+      "x": 795,
+      "y": 2399,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_5",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Meknes Post**\n\n[🔗 ouvrir](https://meknespost.com)",
+      "x": 1067,
+      "y": 2399,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_6",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Taza Press**\n\n[🔗 ouvrir](https://tazapress.com)",
+      "x": 1339,
+      "y": 2399,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_7",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Taza City**\n\n[🔗 ouvrir](https://www.tazacity.net)",
+      "x": 1611,
+      "y": 2399,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_8",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Sefrou Press**\n\n[🔗 ouvrir](https://sefroupress.com)",
+      "x": 795,
+      "y": 2517,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_9",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Sefrou 24**\n\n[🔗 ouvrir](https://sefrou24.info)",
+      "x": 1067,
+      "y": 2517,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_10",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Flach 24**\n\n[🔗 ouvrir](https://www.flach24.com)",
+      "x": 1339,
+      "y": 2517,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_11",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Taounate.net**\n\n[🔗 ouvrir](https://taounate.net)",
+      "x": 1611,
+      "y": 2517,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_12",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Asrar Taounate**\n\n[🔗 ouvrir](https://asrartaounat.ma)",
+      "x": 795,
+      "y": 2635,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_13",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Elhajeb Tube**\n\n[🔗 ouvrir](https://elhajebtubepro.blogspot.com)",
+      "x": 1067,
+      "y": 2635,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_14",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Fès News (.net)**\n\n[🔗 ouvrir](https://fesnews.net)",
+      "x": 1339,
+      "y": 2635,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_15",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Fès-Meknès.com**\n\n[🔗 ouvrir](https://www.fes-meknes.com)",
+      "x": 1611,
+      "y": 2635,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s2_16",
+      "type": "text",
+      "color": "#eab308",
+      "text": "**Missour News (بوابة ميسور)**\n\n[🔗 ouvrir](https://www.missournews.com)",
+      "x": 795,
+      "y": 2753,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl2",
+      "type": "text",
+      "color": "#eab308",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 2219,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f2_0",
+      "type": "text",
+      "color": "#eab308",
+      "text": "⚠️ **أخبار تازة**\n\n[🔗 ouvrir](https://www.facebook.com/AKHBARTAZACOM/)",
+      "x": 1931,
+      "y": 2281,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f2_1",
+      "type": "text",
+      "color": "#eab308",
+      "text": "✅ **Akhbar Azrou آخبار آزرو**\n\n[🔗 ouvrir](https://www.facebook.com/Azroucity24)",
+      "x": 2203,
+      "y": 2281,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f2_2",
+      "type": "text",
+      "color": "#eab308",
+      "text": "🏙️ **Fes News Media (فاس نيوز ميديا)**\n\n[🔗 ouvrir](https://www.facebook.com/fesnews.media/)",
+      "x": 1931,
+      "y": 2399,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f2_3",
+      "type": "text",
+      "color": "#eab308",
+      "text": "🏙️ **مكناس أخبار (Meknes News)**\n\n[🔗 ouvrir](https://www.facebook.com/p/%D9%85%D9%83%D9%86%D8%A7%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-MEKNESS-NEWS-100044513856168/)",
+      "x": 2203,
+      "y": 2399,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Rabat - Salé - Kénitra",
+      "x": 460,
+      "y": 3069,
+      "width": 2038,
+      "height": 893,
+      "color": "#3cb44b"
+    },
+    {
+      "id": "rc3",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "## Rabat - Salé - Kénitra\n7 sites · 11 FB",
+      "x": 505,
+      "y": 3438,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl3",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 3124,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s3_0",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "**Rabat Today**\n\n[🔗 ouvrir](https://rabatoday.ma)",
+      "x": 795,
+      "y": 3186,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s3_1",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "**Sala Press**\n\n[🔗 ouvrir](https://salapress.com)",
+      "x": 1067,
+      "y": 3186,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s3_2",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "**Kénitra Today**\n\n[🔗 ouvrir](https://www.kenitratoday.ma)",
+      "x": 1339,
+      "y": 3186,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s3_3",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "**Sidi Slimane Press**\n\n[🔗 ouvrir](https://sidislimanepress.blogspot.com)",
+      "x": 1611,
+      "y": 3186,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s3_4",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "**Tifelt Press**\n\n[🔗 ouvrir](https://www.tifeltpress.com)",
+      "x": 795,
+      "y": 3304,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s3_5",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "**Tiflet.com**\n\n[🔗 ouvrir](https://tiflet.com)",
+      "x": 1067,
+      "y": 3304,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s3_6",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "**Khemisset News TV**\n\n[🔗 ouvrir](http://khemissetnewstv.blogspot.com)",
+      "x": 1339,
+      "y": 3304,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl3",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 3124,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f3_0",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "✅ **أخبار سوق الأربعاء الغرب (الزهور)**\n\n[🔗 ouvrir](https://www.facebook.com/groups/335843050543603/)",
+      "x": 1931,
+      "y": 3186,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_1",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "✅ **أخبار سوق الأربعاء الغرب**\n\n[🔗 ouvrir](https://www.facebook.com/groups/1709009656085439/)",
+      "x": 2203,
+      "y": 3186,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_2",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "✅ **سيدي قاسم نيوز**\n\n[🔗 ouvrir](https://www.facebook.com/sidikacemnews1/)",
+      "x": 1931,
+      "y": 3304,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_3",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "✅ **سيدي يحيى بريس**\n\n[🔗 ouvrir](https://www.facebook.com/akhbarsidiyahiadugharb/)",
+      "x": 2203,
+      "y": 3304,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_4",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "✅ **Banassa Press**\n\n[🔗 ouvrir](https://www.facebook.com/BANASSA.PRESS/)",
+      "x": 1931,
+      "y": 3422,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_5",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "⚠️ **أخبار سيدي سليمان 24**\n\n[🔗 ouvrir](https://www.facebook.com/p/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%8A%D8%AF%D9%8A-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-24-100069105919601/)",
+      "x": 2203,
+      "y": 3422,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_6",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "✅ **مشرع بلقصيري**\n\n[🔗 ouvrir](https://www.facebook.com/belksiri1/)",
+      "x": 1931,
+      "y": 3540,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_7",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "🏙️ **Rabat Today (الرباط اليوم)**\n\n[🔗 ouvrir](https://www.facebook.com/RABATODAY/)",
+      "x": 2203,
+      "y": 3540,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_8",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "🏙️ **Salé ma ville (سلا مدينتي)**\n\n[🔗 ouvrir](https://www.facebook.com/salemaville01/)",
+      "x": 1931,
+      "y": 3658,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_9",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "🏙️ **Kenitra 24 (القنيطرة)**\n\n[🔗 ouvrir](https://www.facebook.com/kenitra24.ma/)",
+      "x": 2203,
+      "y": 3658,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f3_10",
+      "type": "text",
+      "color": "#3cb44b",
+      "text": "🏙️ **مرصد القنيطرة (Marsad Kenitra, Port Laoti)**\n\n[🔗 ouvrir](https://www.facebook.com/almarsad.official/)",
+      "x": 1931,
+      "y": 3776,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Béni Mellal - Khénifra",
+      "x": 460,
+      "y": 4092,
+      "width": 2038,
+      "height": 775,
+      "color": "#42d4f4"
+    },
+    {
+      "id": "rc4",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "## Béni Mellal - Khénifra\n18 sites · 5 FB",
+      "x": 505,
+      "y": 4402,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl4",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 4147,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s4_0",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Béni Mellal News**\n\n[🔗 ouvrir](https://www.benimellalnews.net)",
+      "x": 795,
+      "y": 4209,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_1",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Atlas 24**\n\n[🔗 ouvrir](https://www.atlas24.ma)",
+      "x": 1067,
+      "y": 4209,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_2",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**TadlaPress**\n\n[🔗 ouvrir](https://www.tadlapress.com)",
+      "x": 1339,
+      "y": 4209,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_3",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Milafat Tadla 24**\n\n[🔗 ouvrir](https://milafattadla24.com)",
+      "x": 1611,
+      "y": 4209,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_4",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**press24maroc (Benimellal24)**\n\n[🔗 ouvrir](http://press24maroc.blogspot.com)",
+      "x": 795,
+      "y": 4327,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_5",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Taxi News**\n\n[🔗 ouvrir](https://www.taxinews.ma)",
+      "x": 1067,
+      "y": 4327,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_6",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Khenifra Online**\n\n[🔗 ouvrir](http://www.khenifra-online.com)",
+      "x": 1339,
+      "y": 4327,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_7",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Khouribga Presse**\n\n[🔗 ouvrir](https://khouribgapresse.ma)",
+      "x": 1611,
+      "y": 4327,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_8",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Khabar Khouribga**\n\n[🔗 ouvrir](https://www.khabarkhouribga.com)",
+      "x": 795,
+      "y": 4445,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_9",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Khouribga.net**\n\n[🔗 ouvrir](https://khouribga.net)",
+      "x": 1067,
+      "y": 4445,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_10",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Fkih Ben Salah**\n\n[🔗 ouvrir](https://www.fkihbensalh.com)",
+      "x": 1339,
+      "y": 4445,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_11",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Azilal 24**\n\n[🔗 ouvrir](https://azilal24.com)",
+      "x": 1611,
+      "y": 4445,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_12",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Azilal Zoom**\n\n[🔗 ouvrir](http://azilalzoom.com)",
+      "x": 795,
+      "y": 4563,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_13",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Azilal.ma**\n\n[🔗 ouvrir](https://azilal.ma)",
+      "x": 1067,
+      "y": 4563,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_14",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Oued Zem 24**\n\n[🔗 ouvrir](http://ouedzem24.blogspot.com)",
+      "x": 1339,
+      "y": 4563,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_15",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Moqi3 Madinat Oued Zem**\n\n[🔗 ouvrir](https://www.ouedzem.com)",
+      "x": 1611,
+      "y": 4563,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_16",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Demnate1**\n\n[🔗 ouvrir](http://www.demnate1.com)",
+      "x": 795,
+      "y": 4681,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s4_17",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "**Ard Bladi**\n\n[🔗 ouvrir](https://ardbladi.com)",
+      "x": 1067,
+      "y": 4681,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl4",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 4147,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f4_0",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "⚠️ **Demnate News**\n\n[🔗 ouvrir](https://www.facebook.com/DemnateNews/)",
+      "x": 1931,
+      "y": 4209,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f4_1",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "⚠️ **السماعلة وادي زم**\n\n[🔗 ouvrir](https://www.facebook.com/smaalaoz/)",
+      "x": 2203,
+      "y": 4209,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f4_2",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "🏙️ **Beni Mellal News (بني ملال نيوز)**\n\n[🔗 ouvrir](https://www.facebook.com/BeniMellalNews.net/)",
+      "x": 1931,
+      "y": 4327,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f4_3",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "🏙️ **أخبار بني ملال**\n\n[🔗 ouvrir](https://www.facebook.com/benimellal24/)",
+      "x": 2203,
+      "y": 4327,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f4_4",
+      "type": "text",
+      "color": "#42d4f4",
+      "text": "🏙️ **khouribga news (groupe)**\n\n[🔗 ouvrir](https://www.facebook.com/groups/khouribganews/)",
+      "x": 1931,
+      "y": 4445,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Casablanca - Settat",
+      "x": 460,
+      "y": 4997,
+      "width": 2038,
+      "height": 657,
+      "color": "#4363d8"
+    },
+    {
+      "id": "rc5",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "## Casablanca - Settat\n12 sites · 8 FB",
+      "x": 505,
+      "y": 5248,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl5",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 5052,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s5_0",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Akhbar Settat**\n\n[🔗 ouvrir](https://akhbarsettat.com)",
+      "x": 795,
+      "y": 5114,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_1",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Mohammedia Press**\n\n[🔗 ouvrir](https://www.mohammediapress.com)",
+      "x": 1067,
+      "y": 5114,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_2",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Media Live (Mohammedia)**\n\n[🔗 ouvrir](https://medialive.ma)",
+      "x": 1339,
+      "y": 5114,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_3",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Berrechid News**\n\n[🔗 ouvrir](https://www.berrechidnews.com)",
+      "x": 1611,
+      "y": 5114,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_4",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Berrechid Presse**\n\n[🔗 ouvrir](https://www.berrechidpresse.com)",
+      "x": 795,
+      "y": 5232,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_5",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**El Jadida News**\n\n[🔗 ouvrir](https://eljadidanews.com)",
+      "x": 1067,
+      "y": 5232,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_6",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**El Jadida Presse**\n\n[🔗 ouvrir](https://eljadidapresse.com)",
+      "x": 1339,
+      "y": 5232,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_7",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**El Jadida Bouge**\n\n[🔗 ouvrir](https://eljadida-bouge.com)",
+      "x": 1611,
+      "y": 5232,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_8",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**El Jadida 36**\n\n[🔗 ouvrir](https://eljadida36.com)",
+      "x": 795,
+      "y": 5350,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_9",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Azemmour Info 24**\n\n[🔗 ouvrir](https://azemmourinfo24.com)",
+      "x": 1067,
+      "y": 5350,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_10",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Sidi Bennour News**\n\n[🔗 ouvrir](https://sidibennournews.ma)",
+      "x": 1339,
+      "y": 5350,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s5_11",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "**Benslimane Press**\n\n[🔗 ouvrir](https://benslimanepress.blogspot.com)",
+      "x": 1611,
+      "y": 5350,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl5",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 5052,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f5_0",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "⚠️ **Sidi Bennour City**\n\n[🔗 ouvrir](https://www.facebook.com/Sidibennour82/)",
+      "x": 1931,
+      "y": 5114,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f5_1",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "〽️ **الزمامرة اليوم**\n\n[🔗 ouvrir](https://www.facebook.com/zemamraaujourdhui/)",
+      "x": 2203,
+      "y": 5114,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f5_2",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "🏙️ **Casa24 (كازا 24)**\n\n[🔗 ouvrir](https://www.facebook.com/casa24.ma/)",
+      "x": 1931,
+      "y": 5232,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f5_3",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "🏙️ **Casa News (كازا نيوز)**\n\n[🔗 ouvrir](https://www.facebook.com/casanewsnews/)",
+      "x": 2203,
+      "y": 5232,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f5_4",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "🏙️ **الجديدة نيوز (El Jadida)**\n\n[🔗 ouvrir](https://www.facebook.com/eljadidanews.maroc/)",
+      "x": 1931,
+      "y": 5350,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f5_5",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "🏙️ **El Jadida 24**\n\n[🔗 ouvrir](https://www.facebook.com/eljadida24.press/)",
+      "x": 2203,
+      "y": 5350,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f5_6",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "🏙️ **Settat Info**\n\n[🔗 ouvrir](https://www.facebook.com/settatpress)",
+      "x": 1931,
+      "y": 5468,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f5_7",
+      "type": "text",
+      "color": "#4363d8",
+      "text": "🏙️ **اخبار المحمدية (Mohammedia news)**\n\n[🔗 ouvrir](https://www.facebook.com/News.mohammedia/)",
+      "x": 2203,
+      "y": 5468,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Marrakech - Safi",
+      "x": 460,
+      "y": 5784,
+      "width": 2038,
+      "height": 775,
+      "color": "#911eb4"
+    },
+    {
+      "id": "rc6",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "## Marrakech - Safi\n18 sites · 6 FB",
+      "x": 505,
+      "y": 6094,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl6",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 5839,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s6_0",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Kech24**\n\n[🔗 ouvrir](https://kech24.com)",
+      "x": 795,
+      "y": 5901,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_1",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Marrakech Alaan**\n\n[🔗 ouvrir](https://www.marrakechalaan.com)",
+      "x": 1067,
+      "y": 5901,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_2",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Marrakech24**\n\n[🔗 ouvrir](https://www.marrakech24.info)",
+      "x": 1339,
+      "y": 5901,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_3",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Anbaa Marrakech**\n\n[🔗 ouvrir](https://anbaamarrakech.com)",
+      "x": 1611,
+      "y": 5901,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_4",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Akhbar Marrakech**\n\n[🔗 ouvrir](https://akhbarmarrakech.com)",
+      "x": 795,
+      "y": 6019,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_5",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Almarrakchia**\n\n[🔗 ouvrir](https://www.almarrakchia.net)",
+      "x": 1067,
+      "y": 6019,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_6",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Marrakech7**\n\n[🔗 ouvrir](https://marrakech7.com)",
+      "x": 1339,
+      "y": 6019,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_7",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Marrakech Alyaoum**\n\n[🔗 ouvrir](https://www.marrakechalyaoum.com)",
+      "x": 1611,
+      "y": 6019,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_8",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Safi Today**\n\n[🔗 ouvrir](https://www.safitoday.com)",
+      "x": 795,
+      "y": 6137,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_9",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Safi Goud**\n\n[🔗 ouvrir](https://www.safigoud.com)",
+      "x": 1067,
+      "y": 6137,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_10",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Safi Press**\n\n[🔗 ouvrir](https://safipress.ma)",
+      "x": 1339,
+      "y": 6137,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_11",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Safi Times**\n\n[🔗 ouvrir](https://www.safitimes.com)",
+      "x": 1611,
+      "y": 6137,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_12",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Youssoufia News**\n\n[🔗 ouvrir](https://youssoufianews20.blogspot.com)",
+      "x": 795,
+      "y": 6255,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_13",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Chichaoua Alyaoum**\n\n[🔗 ouvrir](https://chichaouaalyaoum.com)",
+      "x": 1067,
+      "y": 6255,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_14",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Minbar Essaouira**\n\n[🔗 ouvrir](http://minbaressaouira.ma)",
+      "x": 1339,
+      "y": 6255,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_15",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Essaouira Alan**\n\n[🔗 ouvrir](https://www.essaouiraalan.com)",
+      "x": 1611,
+      "y": 6255,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_16",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**EssaouiraPress**\n\n[🔗 ouvrir](http://essaouirapress.me.ma)",
+      "x": 795,
+      "y": 6373,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s6_17",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "**Sraghna.ma (patrimoine/culturel, pas un fil d'actu)**\n\n[🔗 ouvrir](https://www.sraghna.ma)",
+      "x": 1067,
+      "y": 6373,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl6",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 5839,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f6_0",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "〽️ **قلعة السراغنة اليوم**\n\n[🔗 ouvrir](https://www.facebook.com/kalaaSaghnaLyom/)",
+      "x": 1931,
+      "y": 5901,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f6_1",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "〽️ **قلعة السراغنة أون لاين**\n\n[🔗 ouvrir](https://www.facebook.com/sraghna.online/)",
+      "x": 2203,
+      "y": 5901,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f6_2",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "✅ **ابن جرير 24 / Benguerir 24**\n\n[🔗 ouvrir](https://www.facebook.com/benguerir24/)",
+      "x": 1931,
+      "y": 6019,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f6_3",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "🏙️ **مراكش الآن (Marrakech Alaan)**\n\n[🔗 ouvrir](https://www.facebook.com/Marrakechalaan/)",
+      "x": 2203,
+      "y": 6019,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f6_4",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "🏙️ **Kech24 (كِش24)**\n\n[🔗 ouvrir](https://www.facebook.com/kech24/)",
+      "x": 1931,
+      "y": 6137,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f6_5",
+      "type": "text",
+      "color": "#911eb4",
+      "text": "🏙️ **أحداث آسفي (Ahdat Asfi)**\n\n[🔗 ouvrir](https://www.facebook.com/ahdatasfi/)",
+      "x": 2203,
+      "y": 6137,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Drâa - Tafilalet",
+      "x": 460,
+      "y": 6689,
+      "width": 2038,
+      "height": 657,
+      "color": "#f032e6"
+    },
+    {
+      "id": "rc7",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "## Drâa - Tafilalet\n13 sites · 4 FB",
+      "x": 505,
+      "y": 6940,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl7",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 6744,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s7_0",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Errachidia 24**\n\n[🔗 ouvrir](https://errachidia24.com)",
+      "x": 795,
+      "y": 6806,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_1",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Aljiha8 (الجهة 8)**\n\n[🔗 ouvrir](https://aljiha8.com)",
+      "x": 1067,
+      "y": 6806,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_2",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Map Errachidia**\n\n[🔗 ouvrir](https://www.maperrachidia.ma)",
+      "x": 1339,
+      "y": 6806,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_3",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Tinghir Info**\n\n[🔗 ouvrir](https://tinghir.info)",
+      "x": 1611,
+      "y": 6806,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_4",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Midelt Post**\n\n[🔗 ouvrir](https://mideltpost.com)",
+      "x": 795,
+      "y": 6924,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_5",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Midelt News**\n\n[🔗 ouvrir](https://www.mideltnews.com)",
+      "x": 1067,
+      "y": 6924,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_6",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Midelt Presse**\n\n[🔗 ouvrir](https://mideltpresse.net)",
+      "x": 1339,
+      "y": 6924,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_7",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Zagora News**\n\n[🔗 ouvrir](https://zagoranews.com)",
+      "x": 1611,
+      "y": 6924,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_8",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Zagora Press**\n\n[🔗 ouvrir](https://www.zagorapress.com)",
+      "x": 795,
+      "y": 7042,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_9",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Ouarzazate Online**\n\n[🔗 ouvrir](https://ouarzazateonline.net)",
+      "x": 1067,
+      "y": 7042,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_10",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Errachidia Site**\n\n[🔗 ouvrir](https://errachidiasite.com)",
+      "x": 1339,
+      "y": 7042,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_11",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Imilchil 24**\n\n[🔗 ouvrir](https://www.imilchil24.com)",
+      "x": 1611,
+      "y": 7042,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s7_12",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "**Jadid Info**\n\n[🔗 ouvrir](https://www.jadidinfo.com)",
+      "x": 795,
+      "y": 7160,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl7",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 6744,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f7_0",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "✅ **بوابة الريصاني الإخبارية 24 (groupe)**\n\n[🔗 ouvrir](https://www.facebook.com/groups/739923052759634/)",
+      "x": 1931,
+      "y": 6806,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f7_1",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "✅ **قلعة مكونة بومالن دادس**\n\n[🔗 ouvrir](https://www.facebook.com/people/%D9%82%D9%84%D8%B9%D8%A9-%D9%85%D9%83%D9%88%D9%86%D8%A9-%D8%A8%D9%88%D9%85%D8%A7%D9%84%D9%86-%D8%AF%D8%A7%D8%AF%D8%B3/100064627661774/)",
+      "x": 2203,
+      "y": 6806,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f7_2",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "🏙️ **أخبار الرشيدية 24**\n\n[🔗 ouvrir](https://www.facebook.com/akhbar.errachidia24/)",
+      "x": 1931,
+      "y": 6924,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f7_3",
+      "type": "text",
+      "color": "#f032e6",
+      "text": "🏙️ **أخبار ورزازات**\n\n[🔗 ouvrir](https://www.facebook.com/p/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B1%D8%B2%D8%A7%D8%B2%D8%A7%D8%AA-100051750225749/)",
+      "x": 2203,
+      "y": 6924,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Souss - Massa",
+      "x": 460,
+      "y": 7476,
+      "width": 2038,
+      "height": 1011,
+      "color": "#469990"
+    },
+    {
+      "id": "rc8",
+      "type": "text",
+      "color": "#469990",
+      "text": "## Souss - Massa\n25 sites · 5 FB",
+      "x": 505,
+      "y": 7904,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl8",
+      "type": "text",
+      "color": "#469990",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 7531,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s8_0",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Agadir24**\n\n[🔗 ouvrir](https://agadir24.info)",
+      "x": 795,
+      "y": 7593,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_1",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Agadir News**\n\n[🔗 ouvrir](https://agadirnews.com)",
+      "x": 1067,
+      "y": 7593,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_2",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Sabah Agadir**\n\n[🔗 ouvrir](https://sabahagadir.ma)",
+      "x": 1339,
+      "y": 7593,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_3",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Machahid**\n\n[🔗 ouvrir](https://machahid.info)",
+      "x": 1611,
+      "y": 7593,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_4",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Agadir Today**\n\n[🔗 ouvrir](https://agadirtoday.com)",
+      "x": 795,
+      "y": 7711,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_5",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Agadir TV**\n\n[🔗 ouvrir](https://agadirtv.ma)",
+      "x": 1067,
+      "y": 7711,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_6",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Agadir Info**\n\n[🔗 ouvrir](https://agadirinfo.ma)",
+      "x": 1339,
+      "y": 7711,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_7",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Taroudant Press**\n\n[🔗 ouvrir](https://www.taroudantpress.com)",
+      "x": 1611,
+      "y": 7711,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_8",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Taroudant Al Aan**\n\n[🔗 ouvrir](https://taroudantalaan.ma)",
+      "x": 795,
+      "y": 7829,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_9",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Taroudant 24**\n\n[🔗 ouvrir](https://www.taroudant24.info)",
+      "x": 1067,
+      "y": 7829,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_10",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Achtari 24**\n\n[🔗 ouvrir](https://achtari24.com)",
+      "x": 1339,
+      "y": 7829,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_11",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Tiznit 24**\n\n[🔗 ouvrir](https://tiznit24.com)",
+      "x": 1611,
+      "y": 7829,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_12",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Tiznit 37**\n\n[🔗 ouvrir](https://tiznit37.ma)",
+      "x": 795,
+      "y": 7947,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_13",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Tizpress**\n\n[🔗 ouvrir](https://www.tizpress.com)",
+      "x": 1067,
+      "y": 7947,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_14",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Inezgane News**\n\n[🔗 ouvrir](https://www.inezganews.net)",
+      "x": 1339,
+      "y": 7947,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_15",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Aitmelloul Press**\n\n[🔗 ouvrir](https://aitmelloulpress.blogspot.com)",
+      "x": 1611,
+      "y": 7947,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_16",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Oulad Teima (Houara TV)**\n\n[🔗 ouvrir](http://ouladteima.blogspot.com)",
+      "x": 795,
+      "y": 8065,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_17",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Chtouka Press**\n\n[🔗 ouvrir](https://www.chtoukapress.com)",
+      "x": 1067,
+      "y": 8065,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_18",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Chtouka 24**\n\n[🔗 ouvrir](http://chtouka24.com)",
+      "x": 1339,
+      "y": 8065,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_19",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Biougra 24**\n\n[🔗 ouvrir](https://biougra-24.blogspot.com)",
+      "x": 1611,
+      "y": 8065,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_20",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Biougra News**\n\n[🔗 ouvrir](https://biougnews.blogspot.com)",
+      "x": 795,
+      "y": 8183,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_21",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Souss Massa Press**\n\n[🔗 ouvrir](https://soussmassapress.com)",
+      "x": 1067,
+      "y": 8183,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_22",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Souss Plus**\n\n[🔗 ouvrir](https://soussplus.ma)",
+      "x": 1339,
+      "y": 8183,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_23",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Souss 24**\n\n[🔗 ouvrir](https://souss24.ma)",
+      "x": 1611,
+      "y": 8183,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s8_24",
+      "type": "text",
+      "color": "#469990",
+      "text": "**Akhbar Souss**\n\n[🔗 ouvrir](https://akhbarsouss.net)",
+      "x": 795,
+      "y": 8301,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl8",
+      "type": "text",
+      "color": "#469990",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 7531,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f8_0",
+      "type": "text",
+      "color": "#469990",
+      "text": "⚠️ **أخبار مدينة أولاد تايمة**\n\n[🔗 ouvrir](https://www.facebook.com/Ouledteima.44/)",
+      "x": 1931,
+      "y": 7593,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f8_1",
+      "type": "text",
+      "color": "#469990",
+      "text": "✅ **Foum Zguid (Tata)**\n\n[🔗 ouvrir](https://www.facebook.com/zguidtata/)",
+      "x": 2203,
+      "y": 7593,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f8_2",
+      "type": "text",
+      "color": "#469990",
+      "text": "✅ **إقليم طاطا**\n\n[🔗 ouvrir](https://www.facebook.com/i9lim.Tata/)",
+      "x": 1931,
+      "y": 7711,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f8_3",
+      "type": "text",
+      "color": "#469990",
+      "text": "🏙️ **اخبار اكادير (Agadir)**\n\n[🔗 ouvrir](https://www.facebook.com/akhbar.agadir/)",
+      "x": 2203,
+      "y": 7711,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f8_4",
+      "type": "text",
+      "color": "#469990",
+      "text": "🏙️ **Inezgane News (بوابة إنزكان)**\n\n[🔗 ouvrir](https://www.facebook.com/Inezganews/)",
+      "x": 1931,
+      "y": 7829,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Guelmim - Oued Noun",
+      "x": 460,
+      "y": 8617,
+      "width": 2038,
+      "height": 421,
+      "color": "#9A6324"
+    },
+    {
+      "id": "rc9",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "## Guelmim - Oued Noun\n7 sites · 4 FB",
+      "x": 505,
+      "y": 8750,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl9",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 8672,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s9_0",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "**Guelmim Press**\n\n[🔗 ouvrir](https://guelmimpress.com)",
+      "x": 795,
+      "y": 8734,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s9_1",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "**Guelmim Alhadath**\n\n[🔗 ouvrir](https://guelmimalhadath.ma)",
+      "x": 1067,
+      "y": 8734,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s9_2",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "**Tantan24**\n\n[🔗 ouvrir](https://tantan24.net)",
+      "x": 1339,
+      "y": 8734,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s9_3",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "**Tantan360**\n\n[🔗 ouvrir](https://tantan360.ma)",
+      "x": 1611,
+      "y": 8734,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s9_4",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "**Tantani24**\n\n[🔗 ouvrir](https://tantani24.ma)",
+      "x": 795,
+      "y": 8852,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s9_5",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "**Ifni News**\n\n[🔗 ouvrir](https://www.ifninews.com)",
+      "x": 1067,
+      "y": 8852,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s9_6",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "**Sagya News**\n\n[🔗 ouvrir](https://sagyanews.ma)",
+      "x": 1339,
+      "y": 8852,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl9",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 8672,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f9_0",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "✅ **أسا الزاك نيوز**\n\n[🔗 ouvrir](https://www.facebook.com/assazagnews/)",
+      "x": 1931,
+      "y": 8734,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f9_1",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "〽️ **اش واقع فاسا الزاك**\n\n[🔗 ouvrir](https://www.facebook.com/achwa9a3fiassa/)",
+      "x": 2203,
+      "y": 8734,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f9_2",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "⚠️ **أخبار سيدي إفني إفني نت**\n\n[🔗 ouvrir](https://www.facebook.com/akhbarifni.nifninet/)",
+      "x": 1931,
+      "y": 8852,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f9_3",
+      "type": "text",
+      "color": "#9A6324",
+      "text": "🏙️ **Guelmim news**\n\n[🔗 ouvrir](https://www.facebook.com/people/Guelmim-news/100067790771036/)",
+      "x": 2203,
+      "y": 8852,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "Laâyoune - Saguia al Hamra",
+      "x": 460,
+      "y": 9168,
+      "width": 2038,
+      "height": 539,
+      "color": "#808000"
+    },
+    {
+      "id": "rc10",
+      "type": "text",
+      "color": "#808000",
+      "text": "## Laâyoune - Saguia al Hamra\n9 sites · 3 FB",
+      "x": 505,
+      "y": 9360,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl10",
+      "type": "text",
+      "color": "#808000",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 9223,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s10_0",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Laayoune Now**\n\n[🔗 ouvrir](https://laayounenow.com)",
+      "x": 795,
+      "y": 9285,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_1",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Akhbar Laayoune**\n\n[🔗 ouvrir](https://akhbarlaayoune.com)",
+      "x": 1067,
+      "y": 9285,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_2",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Sahara Diario**\n\n[🔗 ouvrir](https://www.saharadiario.com)",
+      "x": 1339,
+      "y": 9285,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_3",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Sahara Zoom**\n\n[🔗 ouvrir](https://saharazoom.com)",
+      "x": 1611,
+      "y": 9285,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_4",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Sahra Desk**\n\n[🔗 ouvrir](https://sahradesk.com)",
+      "x": 795,
+      "y": 9403,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_5",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Sahara 24**\n\n[🔗 ouvrir](https://www.sahara24.net)",
+      "x": 1067,
+      "y": 9403,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_6",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Smara Diario**\n\n[🔗 ouvrir](https://smaradiario.com)",
+      "x": 1339,
+      "y": 9403,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_7",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Sada Smara**\n\n[🔗 ouvrir](https://sadasmara.ma)",
+      "x": 1611,
+      "y": 9403,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s10_8",
+      "type": "text",
+      "color": "#808000",
+      "text": "**Smara Voice**\n\n[🔗 ouvrir](https://smaravoice.com)",
+      "x": 795,
+      "y": 9521,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl10",
+      "type": "text",
+      "color": "#808000",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 9223,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f10_0",
+      "type": "text",
+      "color": "#808000",
+      "text": "✅ **صفحة بوجدور**\n\n[🔗 ouvrir](https://www.facebook.com/pajeboujdour/)",
+      "x": 1931,
+      "y": 9285,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f10_1",
+      "type": "text",
+      "color": "#808000",
+      "text": "🏙️ **أخبار مدينة العيون**\n\n[🔗 ouvrir](https://www.facebook.com/Laayoune.ciity/)",
+      "x": 2203,
+      "y": 9285,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "f10_2",
+      "type": "text",
+      "color": "#808000",
+      "text": "🏙️ **Laayoune news (العيون نيوز)**\n\n[🔗 ouvrir](https://www.facebook.com/people/Laayoune-news-%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86-%D9%86%D9%8A%D9%88%D8%B2/100064233093509/)",
+      "x": 1931,
+      "y": 9403,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Dakhla - Oued Ed-Dahab",
+      "x": 460,
+      "y": 9837,
+      "width": 2038,
+      "height": 303,
+      "color": "#000075"
+    },
+    {
+      "id": "rc11",
+      "type": "text",
+      "color": "#000075",
+      "text": "## Dakhla - Oued Ed-Dahab\n4 sites · 1 FB",
+      "x": 505,
+      "y": 9911,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "id": "sl11",
+      "type": "text",
+      "color": "#000075",
+      "text": "### 🌐 Sites off",
+      "x": 795,
+      "y": 9892,
+      "width": 1066,
+      "height": 40
+    },
+    {
+      "id": "s11_0",
+      "type": "text",
+      "color": "#000075",
+      "text": "**Dakhla Al Rai**\n\n[🔗 ouvrir](https://dakhlaalrai.ma)",
+      "x": 795,
+      "y": 9954,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s11_1",
+      "type": "text",
+      "color": "#000075",
+      "text": "**Ahdath Dakhla**\n\n[🔗 ouvrir](https://ahdatdakhla.com)",
+      "x": 1067,
+      "y": 9954,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s11_2",
+      "type": "text",
+      "color": "#000075",
+      "text": "**Dakhla 7**\n\n[🔗 ouvrir](https://www.dakhla7.com)",
+      "x": 1339,
+      "y": 9954,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "s11_3",
+      "type": "text",
+      "color": "#000075",
+      "text": "**Akhbar Dakhla**\n\n[🔗 ouvrir](https://akhbardakhla.com)",
+      "x": 1611,
+      "y": 9954,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "fl11",
+      "type": "text",
+      "color": "#000075",
+      "text": "### 📘 Pages FB",
+      "x": 1931,
+      "y": 9892,
+      "width": 522,
+      "height": 40
+    },
+    {
+      "id": "f11_0",
+      "type": "text",
+      "color": "#000075",
+      "text": "🏙️ **الداخلة نيوز (Dakhla news)**\n\n[🔗 ouvrir](https://www.facebook.com/dakhlanews.ma/)",
+      "x": 1931,
+      "y": 9954,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "maroc",
+      "type": "text",
+      "color": "#111827",
+      "text": "# 🇲🇦 Maroc\nMédias locaux et régionaux",
+      "x": 0,
+      "y": 5105,
+      "width": 240,
+      "height": 130
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "rc0",
+      "toNode": "s0_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e2",
+      "fromNode": "rc0",
+      "toNode": "s0_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e3",
+      "fromNode": "rc0",
+      "toNode": "s0_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e4",
+      "fromNode": "rc0",
+      "toNode": "s0_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e5",
+      "fromNode": "rc0",
+      "toNode": "s0_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e6",
+      "fromNode": "rc0",
+      "toNode": "s0_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e7",
+      "fromNode": "rc0",
+      "toNode": "s0_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e8",
+      "fromNode": "rc0",
+      "toNode": "s0_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e9",
+      "fromNode": "rc0",
+      "toNode": "s0_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e10",
+      "fromNode": "rc0",
+      "toNode": "s0_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e11",
+      "fromNode": "rc0",
+      "toNode": "s0_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e12",
+      "fromNode": "rc0",
+      "toNode": "s0_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e13",
+      "fromNode": "rc0",
+      "toNode": "s0_12",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e14",
+      "fromNode": "rc0",
+      "toNode": "s0_13",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e15",
+      "fromNode": "rc0",
+      "toNode": "s0_14",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e16",
+      "fromNode": "rc0",
+      "toNode": "s0_15",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e17",
+      "fromNode": "rc0",
+      "toNode": "s0_16",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e18",
+      "fromNode": "rc0",
+      "toNode": "s0_17",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e19",
+      "fromNode": "rc0",
+      "toNode": "f0_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e20",
+      "fromNode": "rc0",
+      "toNode": "f0_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e21",
+      "fromNode": "rc0",
+      "toNode": "f0_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e22",
+      "fromNode": "rc0",
+      "toNode": "f0_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e23",
+      "fromNode": "rc0",
+      "toNode": "f0_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e24",
+      "fromNode": "rc0",
+      "toNode": "f0_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e25",
+      "fromNode": "rc0",
+      "toNode": "f0_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e26",
+      "fromNode": "rc1",
+      "toNode": "s1_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e27",
+      "fromNode": "rc1",
+      "toNode": "s1_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e28",
+      "fromNode": "rc1",
+      "toNode": "s1_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e29",
+      "fromNode": "rc1",
+      "toNode": "s1_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e30",
+      "fromNode": "rc1",
+      "toNode": "s1_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e31",
+      "fromNode": "rc1",
+      "toNode": "s1_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e32",
+      "fromNode": "rc1",
+      "toNode": "s1_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e33",
+      "fromNode": "rc1",
+      "toNode": "s1_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e34",
+      "fromNode": "rc1",
+      "toNode": "s1_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e35",
+      "fromNode": "rc1",
+      "toNode": "s1_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e36",
+      "fromNode": "rc1",
+      "toNode": "s1_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e37",
+      "fromNode": "rc1",
+      "toNode": "s1_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e38",
+      "fromNode": "rc1",
+      "toNode": "s1_12",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e39",
+      "fromNode": "rc1",
+      "toNode": "s1_13",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e40",
+      "fromNode": "rc1",
+      "toNode": "s1_14",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e41",
+      "fromNode": "rc1",
+      "toNode": "s1_15",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e42",
+      "fromNode": "rc1",
+      "toNode": "s1_16",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e43",
+      "fromNode": "rc1",
+      "toNode": "s1_17",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e44",
+      "fromNode": "rc1",
+      "toNode": "s1_18",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e45",
+      "fromNode": "rc1",
+      "toNode": "s1_19",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e46",
+      "fromNode": "rc1",
+      "toNode": "s1_20",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e47",
+      "fromNode": "rc1",
+      "toNode": "s1_21",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e48",
+      "fromNode": "rc1",
+      "toNode": "s1_22",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e49",
+      "fromNode": "rc1",
+      "toNode": "s1_23",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e50",
+      "fromNode": "rc1",
+      "toNode": "s1_24",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e51",
+      "fromNode": "rc1",
+      "toNode": "s1_25",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e52",
+      "fromNode": "rc1",
+      "toNode": "s1_26",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e53",
+      "fromNode": "rc1",
+      "toNode": "s1_27",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e54",
+      "fromNode": "rc1",
+      "toNode": "s1_28",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e55",
+      "fromNode": "rc1",
+      "toNode": "s1_29",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e56",
+      "fromNode": "rc1",
+      "toNode": "f1_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e57",
+      "fromNode": "rc1",
+      "toNode": "f1_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e58",
+      "fromNode": "rc1",
+      "toNode": "f1_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e59",
+      "fromNode": "rc1",
+      "toNode": "f1_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e60",
+      "fromNode": "rc1",
+      "toNode": "f1_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e61",
+      "fromNode": "rc1",
+      "toNode": "f1_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e62",
+      "fromNode": "rc1",
+      "toNode": "f1_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e63",
+      "fromNode": "rc2",
+      "toNode": "s2_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e64",
+      "fromNode": "rc2",
+      "toNode": "s2_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e65",
+      "fromNode": "rc2",
+      "toNode": "s2_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e66",
+      "fromNode": "rc2",
+      "toNode": "s2_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e67",
+      "fromNode": "rc2",
+      "toNode": "s2_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e68",
+      "fromNode": "rc2",
+      "toNode": "s2_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e69",
+      "fromNode": "rc2",
+      "toNode": "s2_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e70",
+      "fromNode": "rc2",
+      "toNode": "s2_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e71",
+      "fromNode": "rc2",
+      "toNode": "s2_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e72",
+      "fromNode": "rc2",
+      "toNode": "s2_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e73",
+      "fromNode": "rc2",
+      "toNode": "s2_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e74",
+      "fromNode": "rc2",
+      "toNode": "s2_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e75",
+      "fromNode": "rc2",
+      "toNode": "s2_12",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e76",
+      "fromNode": "rc2",
+      "toNode": "s2_13",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e77",
+      "fromNode": "rc2",
+      "toNode": "s2_14",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e78",
+      "fromNode": "rc2",
+      "toNode": "s2_15",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e79",
+      "fromNode": "rc2",
+      "toNode": "s2_16",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e80",
+      "fromNode": "rc2",
+      "toNode": "f2_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e81",
+      "fromNode": "rc2",
+      "toNode": "f2_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e82",
+      "fromNode": "rc2",
+      "toNode": "f2_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e83",
+      "fromNode": "rc2",
+      "toNode": "f2_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e84",
+      "fromNode": "rc3",
+      "toNode": "s3_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e85",
+      "fromNode": "rc3",
+      "toNode": "s3_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e86",
+      "fromNode": "rc3",
+      "toNode": "s3_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e87",
+      "fromNode": "rc3",
+      "toNode": "s3_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e88",
+      "fromNode": "rc3",
+      "toNode": "s3_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e89",
+      "fromNode": "rc3",
+      "toNode": "s3_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e90",
+      "fromNode": "rc3",
+      "toNode": "s3_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e91",
+      "fromNode": "rc3",
+      "toNode": "f3_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e92",
+      "fromNode": "rc3",
+      "toNode": "f3_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e93",
+      "fromNode": "rc3",
+      "toNode": "f3_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e94",
+      "fromNode": "rc3",
+      "toNode": "f3_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e95",
+      "fromNode": "rc3",
+      "toNode": "f3_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e96",
+      "fromNode": "rc3",
+      "toNode": "f3_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e97",
+      "fromNode": "rc3",
+      "toNode": "f3_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e98",
+      "fromNode": "rc3",
+      "toNode": "f3_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e99",
+      "fromNode": "rc3",
+      "toNode": "f3_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e100",
+      "fromNode": "rc3",
+      "toNode": "f3_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e101",
+      "fromNode": "rc3",
+      "toNode": "f3_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e102",
+      "fromNode": "rc4",
+      "toNode": "s4_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e103",
+      "fromNode": "rc4",
+      "toNode": "s4_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e104",
+      "fromNode": "rc4",
+      "toNode": "s4_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e105",
+      "fromNode": "rc4",
+      "toNode": "s4_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e106",
+      "fromNode": "rc4",
+      "toNode": "s4_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e107",
+      "fromNode": "rc4",
+      "toNode": "s4_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e108",
+      "fromNode": "rc4",
+      "toNode": "s4_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e109",
+      "fromNode": "rc4",
+      "toNode": "s4_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e110",
+      "fromNode": "rc4",
+      "toNode": "s4_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e111",
+      "fromNode": "rc4",
+      "toNode": "s4_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e112",
+      "fromNode": "rc4",
+      "toNode": "s4_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e113",
+      "fromNode": "rc4",
+      "toNode": "s4_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e114",
+      "fromNode": "rc4",
+      "toNode": "s4_12",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e115",
+      "fromNode": "rc4",
+      "toNode": "s4_13",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e116",
+      "fromNode": "rc4",
+      "toNode": "s4_14",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e117",
+      "fromNode": "rc4",
+      "toNode": "s4_15",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e118",
+      "fromNode": "rc4",
+      "toNode": "s4_16",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e119",
+      "fromNode": "rc4",
+      "toNode": "s4_17",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e120",
+      "fromNode": "rc4",
+      "toNode": "f4_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e121",
+      "fromNode": "rc4",
+      "toNode": "f4_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e122",
+      "fromNode": "rc4",
+      "toNode": "f4_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e123",
+      "fromNode": "rc4",
+      "toNode": "f4_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e124",
+      "fromNode": "rc4",
+      "toNode": "f4_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e125",
+      "fromNode": "rc5",
+      "toNode": "s5_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e126",
+      "fromNode": "rc5",
+      "toNode": "s5_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e127",
+      "fromNode": "rc5",
+      "toNode": "s5_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e128",
+      "fromNode": "rc5",
+      "toNode": "s5_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e129",
+      "fromNode": "rc5",
+      "toNode": "s5_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e130",
+      "fromNode": "rc5",
+      "toNode": "s5_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e131",
+      "fromNode": "rc5",
+      "toNode": "s5_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e132",
+      "fromNode": "rc5",
+      "toNode": "s5_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e133",
+      "fromNode": "rc5",
+      "toNode": "s5_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e134",
+      "fromNode": "rc5",
+      "toNode": "s5_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e135",
+      "fromNode": "rc5",
+      "toNode": "s5_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e136",
+      "fromNode": "rc5",
+      "toNode": "s5_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e137",
+      "fromNode": "rc5",
+      "toNode": "f5_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e138",
+      "fromNode": "rc5",
+      "toNode": "f5_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e139",
+      "fromNode": "rc5",
+      "toNode": "f5_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e140",
+      "fromNode": "rc5",
+      "toNode": "f5_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e141",
+      "fromNode": "rc5",
+      "toNode": "f5_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e142",
+      "fromNode": "rc5",
+      "toNode": "f5_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e143",
+      "fromNode": "rc5",
+      "toNode": "f5_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e144",
+      "fromNode": "rc5",
+      "toNode": "f5_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e145",
+      "fromNode": "rc6",
+      "toNode": "s6_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e146",
+      "fromNode": "rc6",
+      "toNode": "s6_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e147",
+      "fromNode": "rc6",
+      "toNode": "s6_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e148",
+      "fromNode": "rc6",
+      "toNode": "s6_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e149",
+      "fromNode": "rc6",
+      "toNode": "s6_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e150",
+      "fromNode": "rc6",
+      "toNode": "s6_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e151",
+      "fromNode": "rc6",
+      "toNode": "s6_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e152",
+      "fromNode": "rc6",
+      "toNode": "s6_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e153",
+      "fromNode": "rc6",
+      "toNode": "s6_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e154",
+      "fromNode": "rc6",
+      "toNode": "s6_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e155",
+      "fromNode": "rc6",
+      "toNode": "s6_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e156",
+      "fromNode": "rc6",
+      "toNode": "s6_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e157",
+      "fromNode": "rc6",
+      "toNode": "s6_12",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e158",
+      "fromNode": "rc6",
+      "toNode": "s6_13",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e159",
+      "fromNode": "rc6",
+      "toNode": "s6_14",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e160",
+      "fromNode": "rc6",
+      "toNode": "s6_15",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e161",
+      "fromNode": "rc6",
+      "toNode": "s6_16",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e162",
+      "fromNode": "rc6",
+      "toNode": "s6_17",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e163",
+      "fromNode": "rc6",
+      "toNode": "f6_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e164",
+      "fromNode": "rc6",
+      "toNode": "f6_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e165",
+      "fromNode": "rc6",
+      "toNode": "f6_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e166",
+      "fromNode": "rc6",
+      "toNode": "f6_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e167",
+      "fromNode": "rc6",
+      "toNode": "f6_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e168",
+      "fromNode": "rc6",
+      "toNode": "f6_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e169",
+      "fromNode": "rc7",
+      "toNode": "s7_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e170",
+      "fromNode": "rc7",
+      "toNode": "s7_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e171",
+      "fromNode": "rc7",
+      "toNode": "s7_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e172",
+      "fromNode": "rc7",
+      "toNode": "s7_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e173",
+      "fromNode": "rc7",
+      "toNode": "s7_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e174",
+      "fromNode": "rc7",
+      "toNode": "s7_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e175",
+      "fromNode": "rc7",
+      "toNode": "s7_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e176",
+      "fromNode": "rc7",
+      "toNode": "s7_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e177",
+      "fromNode": "rc7",
+      "toNode": "s7_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e178",
+      "fromNode": "rc7",
+      "toNode": "s7_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e179",
+      "fromNode": "rc7",
+      "toNode": "s7_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e180",
+      "fromNode": "rc7",
+      "toNode": "s7_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e181",
+      "fromNode": "rc7",
+      "toNode": "s7_12",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e182",
+      "fromNode": "rc7",
+      "toNode": "f7_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e183",
+      "fromNode": "rc7",
+      "toNode": "f7_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e184",
+      "fromNode": "rc7",
+      "toNode": "f7_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e185",
+      "fromNode": "rc7",
+      "toNode": "f7_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e186",
+      "fromNode": "rc8",
+      "toNode": "s8_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e187",
+      "fromNode": "rc8",
+      "toNode": "s8_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e188",
+      "fromNode": "rc8",
+      "toNode": "s8_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e189",
+      "fromNode": "rc8",
+      "toNode": "s8_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e190",
+      "fromNode": "rc8",
+      "toNode": "s8_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e191",
+      "fromNode": "rc8",
+      "toNode": "s8_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e192",
+      "fromNode": "rc8",
+      "toNode": "s8_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e193",
+      "fromNode": "rc8",
+      "toNode": "s8_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e194",
+      "fromNode": "rc8",
+      "toNode": "s8_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e195",
+      "fromNode": "rc8",
+      "toNode": "s8_9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e196",
+      "fromNode": "rc8",
+      "toNode": "s8_10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e197",
+      "fromNode": "rc8",
+      "toNode": "s8_11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e198",
+      "fromNode": "rc8",
+      "toNode": "s8_12",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e199",
+      "fromNode": "rc8",
+      "toNode": "s8_13",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e200",
+      "fromNode": "rc8",
+      "toNode": "s8_14",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e201",
+      "fromNode": "rc8",
+      "toNode": "s8_15",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e202",
+      "fromNode": "rc8",
+      "toNode": "s8_16",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e203",
+      "fromNode": "rc8",
+      "toNode": "s8_17",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e204",
+      "fromNode": "rc8",
+      "toNode": "s8_18",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e205",
+      "fromNode": "rc8",
+      "toNode": "s8_19",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e206",
+      "fromNode": "rc8",
+      "toNode": "s8_20",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e207",
+      "fromNode": "rc8",
+      "toNode": "s8_21",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e208",
+      "fromNode": "rc8",
+      "toNode": "s8_22",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e209",
+      "fromNode": "rc8",
+      "toNode": "s8_23",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e210",
+      "fromNode": "rc8",
+      "toNode": "s8_24",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e211",
+      "fromNode": "rc8",
+      "toNode": "f8_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e212",
+      "fromNode": "rc8",
+      "toNode": "f8_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e213",
+      "fromNode": "rc8",
+      "toNode": "f8_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e214",
+      "fromNode": "rc8",
+      "toNode": "f8_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e215",
+      "fromNode": "rc8",
+      "toNode": "f8_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e216",
+      "fromNode": "rc9",
+      "toNode": "s9_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e217",
+      "fromNode": "rc9",
+      "toNode": "s9_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e218",
+      "fromNode": "rc9",
+      "toNode": "s9_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e219",
+      "fromNode": "rc9",
+      "toNode": "s9_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e220",
+      "fromNode": "rc9",
+      "toNode": "s9_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e221",
+      "fromNode": "rc9",
+      "toNode": "s9_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e222",
+      "fromNode": "rc9",
+      "toNode": "s9_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e223",
+      "fromNode": "rc9",
+      "toNode": "f9_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e224",
+      "fromNode": "rc9",
+      "toNode": "f9_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e225",
+      "fromNode": "rc9",
+      "toNode": "f9_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e226",
+      "fromNode": "rc9",
+      "toNode": "f9_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e227",
+      "fromNode": "rc10",
+      "toNode": "s10_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e228",
+      "fromNode": "rc10",
+      "toNode": "s10_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e229",
+      "fromNode": "rc10",
+      "toNode": "s10_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e230",
+      "fromNode": "rc10",
+      "toNode": "s10_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e231",
+      "fromNode": "rc10",
+      "toNode": "s10_4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e232",
+      "fromNode": "rc10",
+      "toNode": "s10_5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e233",
+      "fromNode": "rc10",
+      "toNode": "s10_6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e234",
+      "fromNode": "rc10",
+      "toNode": "s10_7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e235",
+      "fromNode": "rc10",
+      "toNode": "s10_8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e236",
+      "fromNode": "rc10",
+      "toNode": "f10_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e237",
+      "fromNode": "rc10",
+      "toNode": "f10_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e238",
+      "fromNode": "rc10",
+      "toNode": "f10_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e239",
+      "fromNode": "rc11",
+      "toNode": "s11_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#000075"
+    },
+    {
+      "id": "e240",
+      "fromNode": "rc11",
+      "toNode": "s11_1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#000075"
+    },
+    {
+      "id": "e241",
+      "fromNode": "rc11",
+      "toNode": "s11_2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#000075"
+    },
+    {
+      "id": "e242",
+      "fromNode": "rc11",
+      "toNode": "s11_3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#000075"
+    },
+    {
+      "id": "e243",
+      "fromNode": "rc11",
+      "toNode": "f11_0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#000075"
+    },
+    {
+      "id": "e244",
+      "fromNode": "maroc",
+      "toNode": "rc0",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#e6194B"
+    },
+    {
+      "id": "e245",
+      "fromNode": "maroc",
+      "toNode": "rc1",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f58231"
+    },
+    {
+      "id": "e246",
+      "fromNode": "maroc",
+      "toNode": "rc2",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#eab308"
+    },
+    {
+      "id": "e247",
+      "fromNode": "maroc",
+      "toNode": "rc3",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#3cb44b"
+    },
+    {
+      "id": "e248",
+      "fromNode": "maroc",
+      "toNode": "rc4",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#42d4f4"
+    },
+    {
+      "id": "e249",
+      "fromNode": "maroc",
+      "toNode": "rc5",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#4363d8"
+    },
+    {
+      "id": "e250",
+      "fromNode": "maroc",
+      "toNode": "rc6",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#911eb4"
+    },
+    {
+      "id": "e251",
+      "fromNode": "maroc",
+      "toNode": "rc7",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#f032e6"
+    },
+    {
+      "id": "e252",
+      "fromNode": "maroc",
+      "toNode": "rc8",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#469990"
+    },
+    {
+      "id": "e253",
+      "fromNode": "maroc",
+      "toNode": "rc9",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#9A6324"
+    },
+    {
+      "id": "e254",
+      "fromNode": "maroc",
+      "toNode": "rc10",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#808000"
+    },
+    {
+      "id": "e255",
+      "fromNode": "maroc",
+      "toNode": "rc11",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "#000075"
+    }
+  ]
+}
